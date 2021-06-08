@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I’m Neuman. 
 
-I'm a Computer Engeneering student from Brazil. You can check my portfolio [here](https://neumanf.github.io/).
+I'm a Computer Engineering student from Brazil. You can check my portfolio [here](https://neumanf.github.io/).
 
 #### 🛠 Tech Stack
 
