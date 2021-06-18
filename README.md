@@ -10,7 +10,7 @@ I'm a Computer Engineering student from Brazil. You can check my portfolio [here
 - 🌐:
   ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
   ![Svelte](https://img.shields.io/badge/Svelte-orange?style=for-the-badge&logo=Svelte)
-  ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node-js)
+  ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 - 🛢:
   ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB)
 - ⚙️:
