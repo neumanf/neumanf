@@ -1,19 +1,28 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I’m Neuman. 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I’m Neuman. 
 
 I'm a Computer Engineering student from Brazil. You can check my portfolio [here](https://neumanf.github.io/).
 
-#### 🛠 Tech Stack
+### 🛠 Tech Stack
 
-- 💻: 
-  ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-  ![QT](https://img.shields.io/badge/QT-yellow?style=for-the-badge&logo=QT)
-- 🌐:
+🌐 **Web**
+
   ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
   ![Svelte](https://img.shields.io/badge/Svelte-orange?style=for-the-badge&logo=Svelte)
   ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-- 🛢:
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=Tailwind+CSS)
+
+💻 **Multiplatform**
+
+  ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+  ![QT](https://img.shields.io/badge/QT-green?style=for-the-badge&logo=QT&logoColor=white)
+
+🗄️ **Database**
+
   ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB)
-- ⚙️:
+
+⚙️ **DevOps**
+
   ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
   
