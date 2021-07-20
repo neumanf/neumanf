@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I’m Neuman. 
 
-I'm a Computer Engineering student from Brazil. You can check my portfolio [here](https://neumanf.github.io/).
+<p align="center">I'm a Computer Engineering student from Brazil. You can check my portfolio <a href="https://neumanf.github.io/">here</a>.</p>
 
 ### 🛠 Tech Stack
 
@@ -28,6 +28,6 @@ I'm a Computer Engineering student from Brazil. You can check my portfolio [here
   
 
 <a href="https://github.com/neumanf">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neumanf&theme=buefy&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neumanf&theme=buefy&show_icons=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neumanf&theme=buefy&layout=compact" />
 </a>
