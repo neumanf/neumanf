@@ -10,6 +10,9 @@
   [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![Svelte](https://img.shields.io/badge/Svelte-orange?style=for-the-badge&logo=Svelte)](https://svelte.dev/)
   [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=Tailwind+CSS)](https://tailwindcss.com/)
+  
+  [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
+  [![adonisjs](https://img.shields.io/badge/adonisjs-220052?style=for-the-badge&logo=adonisjs)](https://adonisjs.com/)
 
 💻 **Multiplatform**
 
@@ -25,8 +28,7 @@
 ⚙️ **DevOps**
 
   [![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
-  
+  [![Docker](https://img.shields.io/badge/Docker-0E0E52?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
 <a href="https://github.com/neumanf">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neumanf&theme=buefy&show_icons=true&include_all_commits=true" />
