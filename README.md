@@ -12,7 +12,7 @@
   [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=Tailwind+CSS)](https://tailwindcss.com/)
   
   [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
-  [![adonisjs](https://img.shields.io/badge/adonisjs-220052?style=for-the-badge&logo=adonisjs)](https://adonisjs.com/)
+  [![Nestjs](https://img.shields.io/badge/nestjs-EA2845?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
 
 💻 **Multiplatform**
 
