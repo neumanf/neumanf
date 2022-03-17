@@ -17,7 +17,7 @@
 💻 **Multiplatform**
 
   [![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
-  [![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)](https://flutter.dev/)
+  [![Dotnet](https://img.shields.io/badge/Dotnet-purple?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/)
   [![QT](https://img.shields.io/badge/QT-green?style=for-the-badge&logo=QT&logoColor=white)](https://www.qt.io/)
 
 🗄️ **Database**
