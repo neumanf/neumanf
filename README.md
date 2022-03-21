@@ -6,60 +6,52 @@
 
 #### Programming Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-381D2A?style=flat-square&logo=javascript&logoColor=E83151" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-381D2A?style=flat-square&logo=typescript&logoColor=E83151" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/CSharp-381D2A?style=flat-square&logo=csharp&logoColor=E83151" alt="CSharp" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-381D2A?style=flat-square&logo=javascript&logoColor=E83151" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-381D2A?style=flat-square&logo=typescript&logoColor=E83151" alt="TypeScript" />
+<img src="https://img.shields.io/badge/CSharp-381D2A?style=flat-square&logo=csharp&logoColor=E83151" alt="CSharp" />
 
 #### Frameworks / Libraries
 
-<p align="center">
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express-381D2A?style=flat-square&logo=express&logoColor=E83151" alt="Express" />  
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/NestJS-381D2A?style=flat-square&logo=nestjs&logoColor=E83151" alt="NestJS" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/">
-    <img src="https://img.shields.io/badge/DotNet-381D2A?style=flat-square&logo=dotnet&logoColor=E83151" alt="DotNet" />
-  </a>
-  <br/>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-381D2A?style=flat-square&logo=react&logoColor=E83151" alt="React" />
-  </a>
-  <a href="https://svelte.dev/">
-    <img src="https://img.shields.io/badge/Svelte-381D2A?style=flat-square&logo=svelte&logoColor=E83151" alt="Svelte" />
-  </a>
-</p>
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express-381D2A?style=flat-square&logo=express&logoColor=E83151" alt="Express" />  
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/NestJS-381D2A?style=flat-square&logo=nestjs&logoColor=E83151" alt="NestJS" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/">
+  <img src="https://img.shields.io/badge/DotNet-381D2A?style=flat-square&logo=dotnet&logoColor=E83151" alt="DotNet" />
+</a>
+<br/>
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React-381D2A?style=flat-square&logo=react&logoColor=E83151" alt="React" />
+</a>
+<a href="https://svelte.dev/">
+  <img src="https://img.shields.io/badge/Svelte-381D2A?style=flat-square&logo=svelte&logoColor=E83151" alt="Svelte" />
+</a>
 
 #### Databases
 
-<p align="center">
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-381D2A?style=flat-square&logo=postgresql&logoColor=E83151" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-381D2A?style=flat-square&logo=mysql&logoColor=E83151" alt="MySQL" />
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-381D2A?style=flat-square&logo=mongodb&logoColor=E83151" alt="MongoDB" />
-  </a>
-  <a href="https://redis.io/">
-    <img src="https://img.shields.io/badge/Redis-381D2A?style=flat-square&logo=redis&logoColor=E83151" alt="Redis" />
-  </a>
-</p>
+<a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/PostgreSQL-381D2A?style=flat-square&logo=postgresql&logoColor=E83151" alt="PostgreSQL" />
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-381D2A?style=flat-square&logo=mysql&logoColor=E83151" alt="MySQL" />
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-381D2A?style=flat-square&logo=mongodb&logoColor=E83151" alt="MongoDB" />
+</a>
+<a href="https://redis.io/">
+  <img src="https://img.shields.io/badge/Redis-381D2A?style=flat-square&logo=redis&logoColor=E83151" alt="Redis" />
+</a>
 
 #### DevOps
 
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-381D2A?style=flat-square&logo=git&logoColor=E83151" alt="Git" />  
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-381D2A?style=flat-square&logo=docker&logoColor=E83151" alt="Docker" />
-  </a>
-</p>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-381D2A?style=flat-square&logo=git&logoColor=E83151" alt="Git" />  
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-381D2A?style=flat-square&logo=docker&logoColor=E83151" alt="Docker" />
+</a>
 
 ## 📃 Github Stats
 
