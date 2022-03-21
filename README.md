@@ -6,9 +6,7 @@
 
 #### Programming Languages
 
-<img src="https://img.shields.io/badge/JavaScript-381D2A?style=flat-square&logo=javascript&logoColor=E83151" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-381D2A?style=flat-square&logo=typescript&logoColor=E83151" alt="TypeScript" />
-<img src="https://img.shields.io/badge/CSharp-381D2A?style=flat-square&logo=csharp&logoColor=E83151" alt="CSharp" />
+<img src="https://img.shields.io/badge/JavaScript-381D2A?style=flat-square&logo=javascript&logoColor=E83151" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-381D2A?style=flat-square&logo=typescript&logoColor=E83151" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSharp-381D2A?style=flat-square&logo=csharp&logoColor=E83151" alt="CSharp" />
 
 #### Frameworks / Libraries
 
