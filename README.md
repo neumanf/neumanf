@@ -13,7 +13,7 @@
 <a href="https://expressjs.com/">
   <img src="https://img.shields.io/badge/Express-381D2A?style=flat-square&logo=express&logoColor=E83151" alt="Express" />  
 </a>
-<a href="https://nextjs.org/">
+<a href="https://nestjs.com/">
   <img src="https://img.shields.io/badge/NestJS-381D2A?style=flat-square&logo=nestjs&logoColor=E83151" alt="NestJS" />
 </a>
 <a href="https://dotnet.microsoft.com/en-us/">
