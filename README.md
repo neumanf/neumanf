@@ -6,7 +6,7 @@
 
 #### Programming Languages
 
-<img src="https://img.shields.io/badge/JavaScript-381D2A?style=flat-square&logo=javascript&logoColor=E83151" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-381D2A?style=flat-square&logo=typescript&logoColor=E83151" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSharp-381D2A?style=flat-square&logo=csharp&logoColor=E83151" alt="CSharp" />
+<img src="https://img.shields.io/badge/JavaScript-381D2A?style=flat-square&logo=javascript&logoColor=E83151" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-381D2A?style=flat-square&logo=typescript&logoColor=E83151" alt="TypeScript" />
 
 #### Frameworks / Libraries
 
@@ -15,9 +15,6 @@
 </a>
 <a href="https://nestjs.com/">
   <img src="https://img.shields.io/badge/NestJS-381D2A?style=flat-square&logo=nestjs&logoColor=E83151" alt="NestJS" />
-</a>
-<a href="https://dotnet.microsoft.com/en-us/">
-  <img src="https://img.shields.io/badge/DotNet-381D2A?style=flat-square&logo=dotnet&logoColor=E83151" alt="DotNet" />
 </a>
 <br/>
 <a href="https://reactjs.org/">
