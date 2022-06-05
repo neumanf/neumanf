@@ -1,6 +1,6 @@
 <img src="images/header.png">
 
-<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there!</h2>
+<h2 align="center"> 👋 Hi there!</h2>
 
 ## 💻 Tech Stack
 
