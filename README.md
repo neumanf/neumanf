@@ -1,7 +1,5 @@
 <img src="images/header.png">
 
-<h2 align="center"> 👋 Hi there!</h2>
-
 ## 💻 Tech Stack
 
 #### Programming Languages
