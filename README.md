@@ -56,6 +56,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neumanf&theme=buefy&show_icons=true&include_all_commits=true&title_color=E83151&icon_color=E83151" />
   </a>
   <a href="https://github.com/neumanf" height="200">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neumanf&theme=buefy&layout=compact&title_color=E83151&icon_color=E83151" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neumanf&theme=buefy&layout=compact&title_color=E83151&icon_color=E83151&langs_count=6&hide=Shell,Astro,C%23,Svelte,SCSS,CSS,HTML,QML" />
   </a>
 </div>
