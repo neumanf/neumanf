@@ -21,9 +21,6 @@
 <a href="https://nextjs.org/">
   <img src="https://img.shields.io/badge/NextJS-381D2A?style=flat-square&logo=next.js&logoColor=E83151" alt="NextJS" />
 </a>
-<a href="https://svelte.dev/">
-  <img src="https://img.shields.io/badge/Svelte-381D2A?style=flat-square&logo=svelte&logoColor=E83151" alt="Svelte" />
-</a>
 
 #### Databases
 
