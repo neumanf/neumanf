@@ -5,7 +5,7 @@
 ## 💻 Tech Stack
 
 <picture>
-    <img align="right" width="35%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=neumanf&theme=buefy&layout=compact&title_color=E83151&icon_color=E83151&langs_count=6&hide=Shell,Astro,C%23,Svelte,SCSS,CSS,HTML,QML">
+    <img align="right" width="36%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=neumanf&theme=buefy&layout=compact&title_color=E83151&icon_color=E83151&langs_count=6&hide=Shell,Astro,C%23,Svelte,SCSS,CSS,HTML,QML">
 </picture>
 
 |  |  |
