@@ -8,7 +8,7 @@
 
 A collection of web services such as URL shorteners, pastebins, etc. 
 
-**Built with:** Typescript, Nest.js, Next.js, React, PostgreSQL.
+**Built with:** Typescript, Java, Angular, Springboot, PostgreSQL.
 
 <a href="https://github.com/neumanf/mally">
     <img alt="Static Badge" src="https://img.shields.io/badge/Source%20code-242131?style=for-the-badge">
