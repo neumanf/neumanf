@@ -10,12 +10,12 @@ A collection of web services such as URL shorteners, pastebins, etc.
 
 **Built with:** Typescript, Java, Angular, Springboot, PostgreSQL.
 
-<a href="https://github.com/neumanf/mally">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Source%20code-242131?style=for-the-badge">
-</a>
-
 <a href="https://mally.neumanf.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Live-E83151?style=for-the-badge">
+</a>
+
+<a href="https://github.com/neumanf/mally">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Source%20code-242131?style=for-the-badge">
 </a>
 
 ### Trilha Investidor
@@ -34,12 +34,12 @@ Telegram bot responsible for fetching and posting new tech related jobs form dif
 
 **Built with:** Typescript, grammY, MySQL.
 
-<a href="https://github.com/neumanf/vagastechrnbot">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Source%20code-242131?style=for-the-badge">
-</a>
-
 <a href="https://t.me/s/vagastechrn">
     <img alt="Static Badge" src="https://img.shields.io/badge/Live-E83151?style=for-the-badge">
+</a>
+
+<a href="https://github.com/neumanf/vagastechrnbot">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Source%20code-242131?style=for-the-badge">
 </a>
 
 ## 📃 Github Stats
