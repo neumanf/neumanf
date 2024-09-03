@@ -42,16 +42,6 @@ Telegram bot responsible for fetching and posting new tech related jobs form dif
     <img alt="Static Badge" src="https://img.shields.io/badge/Source%20code-242131?style=for-the-badge">
 </a>
 
-## 📃 Github Stats
-
-<details>
-
-<summary>Summary</summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neumanf&theme=buefy&show_icons=true&include_all_commits=true&title_color=E83151&icon_color=E83151" />
-
-</details>
-
 <details>
 
 <summary>Streak</summary>
